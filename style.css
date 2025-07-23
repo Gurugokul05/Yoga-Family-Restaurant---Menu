@@ -281,3 +281,7 @@ a:hover{
     .styletype1 td:nth-child(1){
     padding-left:100px ;
     }
+    .styletype2 img{
+    padding-left:100px;
+}
+}
